@@ -9,6 +9,7 @@ typedef long long int ll;
 
 /*
 THIS CODE FOR PRECALC ANSWER
+IT WORKS LESS THAN 1 MINUTE
 */
 
 map<int, ll> cnt_div;
