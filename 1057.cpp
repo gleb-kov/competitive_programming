@@ -51,4 +51,3 @@ int main() {
               solve_prefix(y, k, b) - solve_prefix(x - 1, k, b));
     std::cout << result;
 }
-
