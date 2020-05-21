@@ -1,4 +1,4 @@
-Some solved tasks from acm.timus.ru, codeforces.com, projecteuler.net, acmp.ru
+Some solved tasks from acm.timus.ru, projecteuler.net, acmp.ru
 
 Profiles:
 
